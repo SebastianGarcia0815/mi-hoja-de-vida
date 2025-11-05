@@ -41,7 +41,7 @@ Además, tengo conocimientos en **voleibol**, lo cual refuerza mis habilidades d
 ---
 
 ## 🌐 Enlaces
-- **GitHub:** [https://github.com/tuusuario](https://github.com/tuusuario)  
+- **GitHub:** [https://github.com/johnsebastiangarcia/mi-hoja-de-vida](https://github.com/johnsebastiangarcia/mi-hoja-de-vida)  
 - **LinkedIn:** (si tienes, puedes agregar el enlace aquí)
 
 ---
