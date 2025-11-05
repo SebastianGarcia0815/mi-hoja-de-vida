@@ -2,8 +2,8 @@
 
 **Nombre completo:** John Sebastian Garcia Paez  
 **Correo electrónico:** msebastiangarcia0816@gmail.com  
-**Teléfono:** (agrega tu número de contacto)  
-**Ciudad:** (agrega tu ciudad)
+**Teléfono:** 3150722263  
+**Ciudad:** Bogotá
 
 ---
 
@@ -41,9 +41,7 @@ Además, tengo conocimientos en **voleibol**, lo cual refuerza mis habilidades d
 ---
 
 ## 🌐 Enlaces
-- **GitHub:** [https://github.com/johnsebastiangarcia/mi-hoja-de-vida](https://github.com/johnsebastiangarcia/mi-hoja-de-vida)  
-- **LinkedIn:** (si tienes, puedes agregar el enlace aquí)
-
+- **GitHub:** [https://github.com/SebastianGarcia0815/mi-hoja-de-vida](https://github.com/SebastianGarcia0815/mi-hoja-de-vida)  
 ---
 
 📄 **Versión:** 1.0  
